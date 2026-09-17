@@ -10,6 +10,6 @@ print("Аты:", stud.name)
 print("Жашы:", stud.age)
 
 class Car:
-    def __init__(self, ):
-        self.color
-        self.brand
+    def __init__(self, color, brand):
+        self.color = color
+        self.brand = brand
